@@ -1,0 +1,11 @@
+1 đóng gói:    
+    các thuộc tính được đóng gói lại -> bên ngoài k nhìn, truy cập vào được. private vs public
+2 trừu tượng:  
+    tính trừu tượng là che giấu thông tin thực hiện từ người dùng, 
+    họ chỉ biết tính năng được cung cấp: Chỉ biết thông tin đối tượng thay vì cách nó sử dụng như thế nào
+3 kế thừa:     
+    Tính kế thừa cho phép xây dựng một lớp mới (lớp Con), 
+    kế thừa và tái sử dụng các thuộc tính, 
+    phương thức dựa trên lớp cũ (lớp Cha) đã có trước đó. 
+4 đa hình: 
+    Tính đa hình trong lập trình OOP cho phép các đối tượng khác nhau thực thi chức năng giống nhau theo những cách khác nhau.
